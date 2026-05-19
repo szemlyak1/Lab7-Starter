@@ -15,3 +15,5 @@ I would not use an End-to-End test to test a function becuase End-to-End testing
     * Resolve the background warnings and errors that were logged in the Chrome DevTools "Issues" panel.
 
 Sean Zemlyak
+
+https://szemlyak1.github.io/Lab7-Starter/
